@@ -1,0 +1,13 @@
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\bin\Debug\lab5_1_2__vb.exe.config
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\bin\Debug\lab5_1_2__vb.exe
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\bin\Debug\lab5_1_2__vb.pdb
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\bin\Debug\lab5_1_2__vb.xml
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\obj\Debug\lab5_1_2__vb.vbprojResolveAssemblyReference.cache
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\obj\Debug\lab5_1_2__vb.Form.resources
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\obj\Debug\lab5_1_2__vb.Resources.resources
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\obj\Debug\lab5_1_2__vb.vbproj.GenerateResource.Cache
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\obj\Debug\lab5_1_2__vb.exe
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\obj\Debug\lab5_1_2__vb.xml
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\obj\Debug\lab5_1_2__vb.pdb
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\obj\Debug\lab5_1_2__vb.Form1.resources
+E:\mathfuck\вба\lab5_1_2__vb\lab5_1_2__vb\obj\Debug\lab5_1_2__vb.Get_Elem.resources
